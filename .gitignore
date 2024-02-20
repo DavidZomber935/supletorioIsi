@@ -1,0 +1,14 @@
+# Ignorar el archivo Thumbs.db
+Thumbs.db
+
+# Ignorar todos los archivos con extensión .log
+*.log
+
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar la carpeta .vscode
+.vscode/
+
+# Ignorar la carpeta .angular
+.angular/
